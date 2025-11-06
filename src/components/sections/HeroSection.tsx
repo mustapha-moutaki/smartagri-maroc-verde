@@ -37,7 +37,7 @@ export const HeroSection = () => {
           </div>
 
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-primary via-primary-light to-secondary bg-clip-text text-transparent mb-6 leading-tight">
-            Farmify
+            SmartAgri Maroc
           </h1>
           <p className="text-2xl md:text-3xl text-foreground/90 mb-4 font-semibold">
             Système intelligent de gestion de l'irrigation et du suivi agricole

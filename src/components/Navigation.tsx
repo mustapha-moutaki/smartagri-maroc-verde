@@ -44,7 +44,7 @@ export const Navigation = () => {
               <Leaf className="h-6 w-6 text-white" />
             </div>
             <span className="text-xl md:text-2xl font-bold bg-gradient-to-r from-primary via-primary-light to-secondary bg-clip-text text-transparent">
-              Farmify
+              SmartAgri Maroc
             </span>
           </div>
 
